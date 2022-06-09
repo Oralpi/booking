@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.create {
+  /* border: 1px solid black; */
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1%;
+}
+
+.create-content1 {
+  /* border: 1px solid black; */
+  height: 100%;
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1%;
+}
+
+.create-content1 > div {
+  /* border: 1px solid black; */
+  font-size: 1.5rem;
+  margin: 1%;
+}
+
+.create-content2 {
+  /* border: 1px solid black; */
+  height: 100%;
+  width: 75%;
+  display: flex;
+  justify-content: center;
+  margin: 1%;
+}
+
+.create-content2 > button {
+  display: flex;
+  font-size: 1.8rem;
+  margin: 1%;
+}

@@ -1,0 +1,15 @@
+{
+  "url": {
+    "production": "",
+    "dev": "",
+    "devAuth": "",
+    "auth": "",
+    "status": "",
+    "accommodations": "",
+    "accommodationDetail": "",
+    "roomList": "",
+    "roomDetail": "",
+    "inventPrice": "",
+    "reservationCreate": ""
+  }
+}

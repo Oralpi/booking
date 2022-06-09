@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42803404-837a-44f6-8655-c827dc9dfa3a" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CMS_220315/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CMS_220315/.idea/CMS_220315.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CMS_220315/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CMS_220315/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CMS_220315/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CMS_220315/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/onda/.idea/pythonStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/pythonStudy/.idea/pythonStudy.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="26Rk1UF9pt4FwsfvwQGCxLohaTa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Study/pythonStudy_2022_02_22_17_31" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="42803404-837a-44f6-8655-c827dc9dfa3a" name="변경" comment="" />
+      <created>1647393571529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647393571529</updated>
+    </task>
+    <servers />
+  </component>
+</project>

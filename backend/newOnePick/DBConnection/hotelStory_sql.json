@@ -1,0 +1,12 @@
+{
+    "insert": {
+        "master": "insert into hs_accommodation_master(ham_property_id, ham_property_name, ham_country_code, ham_city_code, ham_property_type, ham_star_rating, ham_address, ham_latitude, ham_longitude, ham_homepage_url, ham_phone, ham_num_room, ham_checkin_time, ham_checkout_time, ham_property_desc, ham_traffic_information, ham_checkin_instructions, ham_insert_date, ham_update_date) values(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)",
+       "images": "insert into hs_accommodation_images(ham_seq_no, hai_imagetype_code, hai_rateplan_id, hai_image_url) VALUES (%s, %s, %s, %s)",
+        "rooms": "insert into hs_accommodation_rooms(ham_seq_no, har_roomtype_id, har_roomtype_name, har_bedtype_code, har_min_persons, har_max_persons) VALUES (%s, %s, %s, %s, %s, %s)",
+        "products": "insert into hs_accommodation_products(ham_seq_no, har_seq_no, hap_rateplan_id, hsp_rateplan_name, hsp_bedtype_code, hsp_meal_code, hsp_sale_rate, hsp_min_persons, hsp_max_persons, hsp_close, hsp_description) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)",
+        "additionals": "insert into hs_additionals(ham_seq_no, haz_additional_code, haz_additional_name) VALUES (%s, %s, %s)",
+        "desc01": "insert into hs_room_desc(ham_seq_no, hrd_type, hrd_roomtype_id, hrd_text) VALUES (%s, %s, %s, %s)",
+        "desc02": "insert into hs_room_desc(ham_seq_no, hrd_type, hrd_text, hrd_rateplan_id) VALUES (%s, %s, %s, %s)",
+        "policy": "insert into hs_cancel_policy(ham_seq_no, hcp_apply_date, hcp_applycharge_percent) VALUES (%s, %s, %s)"
+    }
+}
